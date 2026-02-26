@@ -3,14 +3,11 @@
 <p align="center">
 🚀 Desenvolvedor Fullstack | Integrações & Automações | Backend Focused
 </p>
-
+<h2 align="center">Fullstack Developer | Backend | APIs | Automação | Arquitetura de Software</h2>
 <p align="center">
 Sou desenvolvedor com foco em construção de aplicações escaláveis, integrações entre sistemas e automações inteligentes.
 Atuo do frontend ao backend, criando APIs, aplicações web modernas e fluxos automatizados para negócios.
 </p>
-
-<h2 align="center">Fullstack Developer | Backend | APIs | Automação | Arquitetura de Software</h2>
-
 <br>
 
 <div align="center">
@@ -23,12 +20,6 @@ Atuo do frontend ao backend, criando APIs, aplicações web modernas e fluxos au
 </div>
 
 <br>
-
-<p align="center">
-Atuo desenvolvendo aplicações web completas, APIs REST e sistemas integrados.
-Tenho foco em backend, arquitetura bem estruturada e automações que conectam sistemas e processos de negócio.
-</p>
-
 <br>
 
 <h3 align="center">🛠️ Tech Stack</h3>
