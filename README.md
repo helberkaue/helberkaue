@@ -14,13 +14,10 @@ Atuo do frontend ao backend, criando APIs, aplicações web modernas e fluxos au
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/helber-avelino-32391a208" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://github.com/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="mailto:SEUEMAIL@GMAIL.COM" target="_blank">
+  <a href="mailto:helber.avelino05@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
@@ -39,8 +36,6 @@ Tenho foco em backend, arquitetura bem estruturada e automações que conectam s
 <div align="center">
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="60" />
@@ -60,12 +55,6 @@ Tenho foco em backend, arquitetura bem estruturada e automações que conectam s
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=postgres" height="60" />
-  <img width="12" />
-
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" />
   <img width="12" />
 
 </div>
