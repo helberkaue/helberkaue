@@ -1,9 +1,5 @@
 <h1 align="center">👨‍💻 Helber Avelino</h1>
-
-<p align="center">
-🚀 Desenvolvedor Fullstack | Integrações & Automações | Backend Focused
-</p>
-<h2 align="center">Fullstack Developer | Backend | APIs | Automação | Arquitetura de Software</h2>
+<h2 align="center">Fullstack Developer | Integrações & Automações | Backend Focused | APIs | Automação</h2>
 <p align="center">
 Sou desenvolvedor com foco em construção de aplicações escaláveis, integrações entre sistemas e automações inteligentes.
 Atuo do frontend ao backend, criando APIs, aplicações web modernas e fluxos automatizados para negócios.
