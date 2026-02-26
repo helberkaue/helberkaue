@@ -19,18 +19,5 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,java,postgres" height="45" />
-  <br />
-  <br />
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="45" />
 </div>
-
-<br />
-<br />
-
-<h3 align="center">Foco Atual</h3>
-
-<p align="center">
-  🚀 <b>Arquitetura de Software</b> • <b>Sistemas Escaláveis</b> • <b>Integrações</b> • <b>Automações com n8n</b> • <b>Engenharia Backend</b>
-</p>
-
-<br />
